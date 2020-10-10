@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Social-Auth/static/css/main.ed8163a7.chunk.css",
+    "main.css": "/Social-Auth/static/css/main.78ecf105.chunk.css",
     "main.js": "/Social-Auth/static/js/main.2d31789a.chunk.js",
     "main.js.map": "/Social-Auth/static/js/main.2d31789a.chunk.js.map",
     "runtime-main.js": "/Social-Auth/static/js/runtime-main.5c7fbc7d.js",
@@ -8,15 +8,15 @@
     "static/js/2.de996d38.chunk.js": "/Social-Auth/static/js/2.de996d38.chunk.js",
     "static/js/2.de996d38.chunk.js.map": "/Social-Auth/static/js/2.de996d38.chunk.js.map",
     "index.html": "/Social-Auth/index.html",
-    "precache-manifest.544b1aa2b1d8c4ef061a3b94bcbde8ad.js": "/Social-Auth/precache-manifest.544b1aa2b1d8c4ef061a3b94bcbde8ad.js",
+    "precache-manifest.be80f749a0c1f937d6a662666d584852.js": "/Social-Auth/precache-manifest.be80f749a0c1f937d6a662666d584852.js",
     "service-worker.js": "/Social-Auth/service-worker.js",
-    "static/css/main.ed8163a7.chunk.css.map": "/Social-Auth/static/css/main.ed8163a7.chunk.css.map",
+    "static/css/main.78ecf105.chunk.css.map": "/Social-Auth/static/css/main.78ecf105.chunk.css.map",
     "static/js/2.de996d38.chunk.js.LICENSE.txt": "/Social-Auth/static/js/2.de996d38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5c7fbc7d.js",
     "static/js/2.de996d38.chunk.js",
-    "static/css/main.ed8163a7.chunk.css",
+    "static/css/main.78ecf105.chunk.css",
     "static/js/main.2d31789a.chunk.js"
   ]
 }
